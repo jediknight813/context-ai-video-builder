@@ -1,0 +1,7 @@
+.venv
+
+context-ai/vits/BLIP/models/model.pth
+vits/BLIP/models/model.pth
+vits/pretrained_ljs.pth
+vits/pretrained_vctk.pth
+vits/BLIP/models/model.pth
